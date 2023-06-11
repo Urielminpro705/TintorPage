@@ -19,7 +19,7 @@
         </div>
         <div class="row">
 
-                <?php
+<?php
 
 $usuario    = "adminpizzaslasalle";
 $contrasena = "N1#TBY&cN8DI";
