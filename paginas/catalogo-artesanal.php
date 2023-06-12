@@ -9,7 +9,31 @@
     <link rel="stylesheet" href="../Estilos/estilos.css">
 </head>
 <body>
-    
+    <header>
+        <div id="titulo" class="fixed-top">
+            <div id="logo">
+                <a href="../index.html">
+                    <img src="../imagenes/tintor.png" alt="tintor" class="tintorimg">
+                </a>
+            </div>
+            <div class="navegador">
+                <ul class="nav justify-content-center">
+                    <li class="nav-item">
+                        <a class="nav-link" href="catalogo-tintor.html">CATALOGO TINTOR</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="nosotros.html">NOSOTROS</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="catalogo-artesanal.php">CATALOGO ARTESANAL</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="contacto.html">CONTÁCTANOS</a>
+                    </li>
+                </ul>
+            </div>
+        </div>            
+    </header>
     <div class="container catalogo">
         <?php
         $host = "localhost";
