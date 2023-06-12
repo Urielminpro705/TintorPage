@@ -60,3 +60,7 @@ body {
     .contenedor-mapa:hover iframe {
         opacity: 0.8;
     }
+
+    .container {
+        margin-top: 200px;
+    }
