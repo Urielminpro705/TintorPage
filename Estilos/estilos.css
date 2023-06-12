@@ -147,53 +147,7 @@ footer img{
  a{
     text-decoration: none;
 }
-.imagen2 {
-    display: flex;
-      align-items: center;
-      margin-top: 145px;
-  }
-.image211{
-    flex: 1;
-    width: 50%;
-    height: 450px;
-  }
-.text211{
-    flex: 1;
-    margin-left: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-  }
 
-  .imagen3 {
-    display: flex;
-    align-items: center;
-    flex-direction: row-reverse; /* Invierte el orden de los elementos */
-  }
-
-  .image311 {
-    flex: 1;
-    width: 50%;
-    height: 450px;
-  }
-
-.text311 {
-    flex: 1;
-    margin-left: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
-.imagen4 {
-    display: flex;
-      align-items: center;
-}
-.image411{
-    flex: 1;
-    width: 50%;
-    height: 450px;
-}
-.text411{
-    flex: 1;
-    margin-left: 10px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-}
 .botatiburon1{
     display: flex;
     align-items: center;

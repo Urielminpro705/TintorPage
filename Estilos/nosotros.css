@@ -1,0 +1,63 @@
+.imagen2 {
+    background-color: whitesmoke;
+    display: flex;
+    overflow: hidden;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+    margin-top: 167px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+}
+.image211{
+    width: 900px;
+    height: 900px;
+}
+
+.text211{
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imagen3 {
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.image311 {  
+    width: 900px;
+    height: 800px;
+}
+
+.text311 {
+    margin-left: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imagen4 {
+    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.3);
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    margin-top: 20px;
+}
+.image411{   
+    width: 900px;
+    height: 800px;
+}
+.text411{
+    margin-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.imagenNosotros{
+    overflow: hidden;
+    max-width: 900px;
+    width: 100%;
+}
