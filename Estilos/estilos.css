@@ -86,7 +86,8 @@
     }
     .imagen1 img{
         margin-top: 20px;
-        
+        width: 600;
+        height: 800px; 
     }
     .texto-encima h1{
         font-size: 15px;
