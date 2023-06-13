@@ -32,8 +32,8 @@
     height: 500px;
 }
 .imagen1 img{
-    width: 1600px;
-    height: 800px;
+    width: 1900px;
+    height: 1000px;
 }
 .texto-encima {
     position: absolute;
@@ -84,7 +84,8 @@
     }
     .imagen1 img{
         margin-top: 20px;
-        
+        width: 600;
+        height: 800px;    
     }
     .texto-encima h1{
         font-size: 15px;
