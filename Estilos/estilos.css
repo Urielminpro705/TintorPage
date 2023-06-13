@@ -8,6 +8,7 @@
     width: 100px;
     height: 100px;
 }
+
 .navegador {
     top: 100px;
     margin-top: 1.4%;
@@ -31,6 +32,7 @@
     margin-top: 125px;
     height: 500px;
 }
+
 .imagen1 img{
     width: 1600px;
     height: 800px;
@@ -158,6 +160,7 @@ a{
     flex: 0.5;
     width: 200px;
     height: 350px;
+    border-radius: 8px;
 }
 .texttiburon{
     flex: 1.5;
@@ -175,6 +178,7 @@ a{
     flex: 0.5;
     width: 200px;
     height: 350px;
+    border-radius: 8px;
 }
   
 .textpetatillo{
@@ -193,6 +197,7 @@ a{
     flex: 0.5;
     width: 200px;
     height: 350px;
+    border-radius: 8px;
 }
   
 .textavestruz{
