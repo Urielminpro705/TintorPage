@@ -38,7 +38,7 @@
     <div class="catalogo">
         <?php
         include 'conexion.php';
-        $consulta  = "SELECT * FROM `Productos`";
+        $consulta  = "SELECT * FROM `ProductosExtras`";
         $query = $conn->prepare($consulta);
         $query->execute();
         while($registro = $query->fetch())

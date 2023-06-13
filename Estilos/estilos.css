@@ -25,13 +25,15 @@
     color: black;
 }
 .imagen1{
+    overflow: hidden;
     position: relative;
-    display:  inline-block;
     text-align: center;
     margin-top: 125px;
+    height: 500px;
 }
 .imagen1 img{
-    width: 100%;
+    width: 1600px;
+    height: 800px;
 }
 .texto-encima {
     position: absolute;
@@ -44,7 +46,7 @@
 }
 .texto-encima h1{
     padding-top: 10px;
-    padding-bottom: 100px;
+    padding-bottom: 10px;
     font-size: 30px;
 }
 .texto-encima p{
@@ -62,8 +64,6 @@
         margin-top: -20px;
     }
     .texto-encima h1{
-        padding-top: 100px;
-        padding-bottom: 50px;
         font-size: 20px;
     }
     .texto-encima p{
@@ -72,7 +72,7 @@
     .contenedor-imagenes img {
         max-width: 100%;
         height: auto;
-      }
+    }
 }
 @media screen and (max-width:600px){
     header{
@@ -144,7 +144,7 @@ footer img{
     filter: invert(100%);
     cursor: pointer;
 }
- a{
+a{
     text-decoration: none;
 }
 
